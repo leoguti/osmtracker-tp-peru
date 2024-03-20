@@ -3,11 +3,9 @@
 	<layout name="root">
 		<row>
 			<button type="textnote" icon="text_32x32" />
-		</row>
-		<row>
-			<button type="tag" label="Parada de Bus - Tipo 1" icon="/transporte_publico_icons/parada_bus_1.png" />
-			<button type="tag" label="Parada de Bus - Tipo 2" icon="/transporte_publico_icons/parada_bus_2.png" />
-			<button type="tag" label="Parada de Bus - Tipo 3" icon="/transporte_publico_icons/parada_bus_3.png" />
+			<button type="tag" label="Parada de Bus - Poste Señalizado o Pintura" icon="/transporte_publico_icons/parada_bus_1.png" />
+			<button type="tag" label="Parada de Bus - Techo sin asientos" icon="/transporte_publico_icons/parada_bus_2.png" />
+			<button type="tag" label="Parada de Bus - Techo con asiento" icon="/transporte_publico_icons/parada_bus_3.png" />
 		</row>
 		<row>
 			<button type="tag" label="Terminal de buses" icon="/transporte_publico_icons/bus_terminal.png" />
