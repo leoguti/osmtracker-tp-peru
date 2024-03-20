@@ -11,14 +11,22 @@
 		</row>
 
 		<row>
-			<button type="tag" label="Aborda Hombre" icon="/transporte_publico_icons/parada_bus_1.png" />
-			<button type="tag" label="Aborda Mujer" icon="/transporte_publico_icons/parada_bus_2.png" />
-			<button type="tag" label="Desciende Hombre" icon="/transporte_publico_icons/parada_bus_3.png" />
-			<button type="tag" label="Desciende Mujer" icon="/transporte_publico_icons/parada_bus_3.png" />
+			<button type="tag" label="Panel de publicidad" icon="/transporte_publico_icons/panel_publicidad.png" />
+			<button type="tag" label="parada_informal" icon="/transporte_publico_icons/parada_informal.png" />
+			<button type="tag" label="Aborda Mujer" icon="/transporte_publico_icons/mujer_aborda.png" />
+		</row>
+		<row>
+			<button type="tag" label="Desciende Mujer" icon="/transporte_publico_icons/mujer_desciende.png" />
+			<button type="tag" label="Aborda Hombre" icon="/transporte_publico_icons/hombre_aborda.png" />
+			<button type="tag" label="Desciende Hombre" icon="/transporte_publico_icons/hombre_desciende.png" />
+
+		</row>
+		<row>
 		</row>
 
 		<row>
-			<button type="tag" label="Terminal de buses" icon="/transporte_publico_icons/bus_terminal.png" />
+			<button type="tag" label="Desciende Hombre" icon="/transporte_publico_icons/hombre_desciende.png" />
+			<button type="tag" label="Fin de ruta" icon="/transporte_publico_icons/bus_terminal.png" />
 			<button type="tag" label="Parqueo Bicicleta" icon="/transporte_publico_icons/parqueo_bici.png" />
 		</row>
 		<row>
