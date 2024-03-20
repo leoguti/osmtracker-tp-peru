@@ -2,8 +2,6 @@
 <layouts>
 	<layout name="root">
 		<row>
-			<button type="voicerec" icon="voice_32x32" />
-			<button type="picture" icon="camera_32x32" />
 			<button type="textnote" icon="text_32x32" />
 		</row>
 		<row>
@@ -13,14 +11,9 @@
 		</row>
 		<row>
 			<button type="tag" label="Terminal de buses" icon="/transporte_publico_icons/bus_terminal.png" />
-			<button type="tag" label="Taxis" icon="/transporte_publico_icons/taxi.png" />
-			<button type="tag" label="Estación Tren" icon="/transporte_publico_icons/estacion_tren.png" />
+			<button type="tag" label="Parqueo Bicicleta" icon="/transporte_publico_icons/parqueo_bici.png" />
 		</row>
 		<row>
-			<button type="tag" label="Alquiler Bicicletas GRANDIOSO" icon="/transporte_publico_icons/alquiler.png" />
-			<button type="tag" label="CIclovía - Inicio" icon="/transporte_publico_icons/ciclovia.png" />
-			<button type="tag" label="CIclovía - Fin" icon="/transporte_publico_icons/ciclovia.png" />
-			<button type="tag" label="Parqueo Bicicleta" icon="/transporte_publico_icons/parqueo_bici.png" />
 		</row>
 		
 	</layout>
