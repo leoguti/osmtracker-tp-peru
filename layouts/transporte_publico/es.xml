@@ -17,7 +17,7 @@
 			<button type="tag" label="Estación Tren" icon="/transporte_publico_icons/estacion_tren.png" />
 		</row>
 		<row>
-			<button type="tag" label="Alquiler Bicicletas" icon="/transporte_publico_icons/alquiler.png" />
+			<button type="tag" label="Alquiler Bicicletas GRANDIOSO" icon="/transporte_publico_icons/alquiler.png" />
 			<button type="tag" label="CIclovía - Inicio" icon="/transporte_publico_icons/ciclovia.png" />
 			<button type="tag" label="CIclovía - Fin" icon="/transporte_publico_icons/ciclovia.png" />
 			<button type="tag" label="Parqueo Bicicleta" icon="/transporte_publico_icons/parqueo_bici.png" />
