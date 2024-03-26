@@ -25,7 +25,7 @@
 		<row>
 			<button type="tag" label="Inicio de ruta" icon="/transporte_publico_icons/Inicio_ruta.png" />
 			<button type="tag" label="Fin de ruta" icon="/transporte_publico_icons/bus_terminal.png" />
-			<button type="picture" label="Photo" icon="logo_camera"/>
+			<!-- <button type="picture" label="Photo" icon="logo_camera"/>-->
 		</row>
 		
 	</layout>
